@@ -8,7 +8,7 @@ int val1 = 0;
 
 int Oshimashita1 = 0;
 
-
+test
 
 void setup()                    // run once, when the sketch starts
 {
